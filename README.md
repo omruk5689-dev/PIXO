@@ -1,5 +1,6 @@
 # PIXO
-![Uploading 3D_PCB1_2026-09-28 (2).png…]()
+<img width="2160" height="1651" alt="3D_PCB1_2026-09-28 (2)" src="https://github.com/user-attachments/assets/62acd16a-332e-4878-92cb-c2859b59f2e1" />
+
 
 PIXO is a little ATmega328P board I've made myself, kind of an Arduino Uno with my own spin on it – no USB-B, no extra modules required,
 CH340 onboard so it works straight out of the box with a plain old cable, and all pins separated for easy use with a breadboard.
